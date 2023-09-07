@@ -1,4 +1,4 @@
-### How are you, I am a Data Scientist 🌱
+### How are you? A Data Scientist's hub 🌱
 
 
 <!--
