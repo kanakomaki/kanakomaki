@@ -1,5 +1,8 @@
 ### How are you? A Data Scientist's hub 🌱
 
+I am a fresh graduate from the Data Science course of Le Wagon Tokyo in 2023 summer.
+I made the final project with the team during the boot camp, "AidentityKit".
+Here, I will also add my own projects.
 
 <!--
 **kanakomaki/kanakomaki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
