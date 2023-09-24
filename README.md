@@ -2,11 +2,12 @@
 
 Data  Scientist  and  Marine  Scientist (Ph.D.)  with a passion for environmental conservation, seeking a Data Science role, having >12 years of data analysis experience on both natural scientific and social science data with stakeholders from various sectors in national and international settings. 
 
-Languages: Python, Matlab, Fortran, R
-Libraries: SQL, Scikit-learn, Keras/TensorFlow, ArcGIS, OceanDataView, The Generic Mapping Tools (GMT)
-Data analysis: Exploratory analysis, time-series data analysis, data cleaning, statistic analysis, NLP
+Languages: Python, Matlab, Fortran, R 
+Libraries: SQL, Scikit-learn, Keras/TensorFlow, ArcGIS, OceanDataView, The Generic Mapping Tools (GMT) 
+Data analysis: Exploratory analysis, time-series data analysis, data cleaning, statistic analysis, NLP 
 Added projects: 
-- In 2023 summer, I gained Data Science skills with Le Wagon Tokyo bootcamp. Its final project, "AidentityKit", is showcased in the repo "StyleGAN project".  
+- In 2023 summer, I gained Data Science skills with Le Wagon Tokyo bootcamp. Its final project, "AidentityKit", is showcased in the repo "StyleGAN project".
+
 
 
 <!--
