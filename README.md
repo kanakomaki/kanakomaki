@@ -4,7 +4,9 @@ Data  Scientist  and  Marine  Scientist (Ph.D.)  with a passion for environmenta
 
 Languages: Python, Matlab, Fortran, R   
 
-Libraries: SQL, Scikit-learn, Keras/TensorFlow, ArcGIS, OceanDataView, The Generic Mapping Tools (GMT)  
+Libraries: SQL, Scikit-learn, Keras/TensorFlow, The Generic Mapping Tools (GMT) 
+
+Software: OceanDataView, ArcGIS
 
 Data analysis: Exploratory analysis, time-series data analysis, data cleaning, statistic analysis, NLP  
 
