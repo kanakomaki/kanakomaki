@@ -10,9 +10,10 @@ Software: OceanDataView, ArcGIS
 
 Data analysis: Exploratory analysis, time-series data analysis, data cleaning, statistic analysis, NLP  
 
-Added projects: 
-- 2023 Sep 24: I added a program set to process raw data for the ocean sensor, Lowered Acoustic Doppler Current profiler (LADCP). 
-- 2023 summer: I gained Data Science skills with Le Wagon Tokyo bootcamp. Its final project, "AidentityKit", is showcased in the repo "StyleGAN project".
+Information:
+- 2023 Sep 24: I added a repo "LADCP", my original program set to process raw data of the ocean sensor, Lowered Acoustic Doppler Current profiler (LADCP). 
+- 2023 summer: I completed Le Wagon Tokyo boot camp. Its final project "AidentityKit" was added as the repo, "StyleGAN project".
+- 2023 summer: Started this Github
 
 
 
