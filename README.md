@@ -6,14 +6,14 @@ Languages: Python, Matlab, Fortran, R
 
 Libraries: SQL, Scikit-learn, Keras/TensorFlow, The Generic Mapping Tools (GMT) 
 
-Software: OceanDataView, ArcGIS
+Software: WinADCP, OceanDataView, ArcGIS
 
-Data analysis: Exploratory analysis, time-series data analysis, data cleaning, statistic analysis, NLP  
+Data analysis: Exploratory analysis, Time-series data analysis, Data processing, Statistic analysis, Natural Language Processing  
 
 Information:
 - 2023 Sep 24: I added a repo "LADCP", my original program set to process raw data of the ocean sensor, Lowered Acoustic Doppler Current profiler (LADCP). 
-- 2023 summer: I completed Le Wagon Tokyo boot camp. Its final project "AidentityKit" was added as the repo, "StyleGAN project".
-- 2023 summer: Started this Github
+- 2023 summer: I added a repo "StyleGAN project". Le Wagon Tokyo boot camp's final project.
+- 2023 summer: Initiated this Github
 
 
 
