@@ -1,13 +1,9 @@
-### How are you? A Data Scientist's hub 🌱
+### A Data Scientist's hub 🌱
 
 Data  Scientist  and  Marine  Scientist (Ph.D.)  with a passion for environmental conservation, seeking a Data Science role, having >12 years of data analysis experience on both natural scientific and social science data with stakeholders from various sectors in national and international settings. 
 
 Languages: Python, Matlab, Fortran, R   
-
-Libraries: SQL, Scikit-learn, Keras/TensorFlow, The Generic Mapping Tools (GMT), GrADS
-
 Software: WinADCP, OceanDataView, ArcGIS
-
 Data analysis: Exploratory analysis, Time-series data analysis, Data processing, Statistic analysis, Natural Language Processing  
 
 Information:
